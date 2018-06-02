@@ -1,5 +1,7 @@
 # timeWait-backEnd
 
+前端代码 frontend code : https://github.com/onaug6th/timeWait-frontEnd
+
 angular2 project（time-wait）backend
 
 database : mongonDB
