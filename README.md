@@ -11,9 +11,9 @@ angular2 项目（time-wait）后端
 ## 使用
 
 ```
-git clone https://github.com/onaug6th/timeWait-frontEnd
+git clone https://github.com/onaug6th/timeWait-backEnd
 
-cd timeWait-frontEnd
+cd timeWait-backEnd
 
 npm install
 
